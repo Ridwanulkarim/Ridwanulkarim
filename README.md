@@ -70,7 +70,3 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridwanulkarim&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwanulkarim&layout=compact&theme=radical" />
 </p>
-
-<p align="left">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>

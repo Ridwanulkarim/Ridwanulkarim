@@ -9,16 +9,23 @@
 
 ### 🚀 About Me
 
-- 🎯 I've **completed Frontend Development** and I'm now learning **Backend Development**
+- 🎯 I've **completed Frontend Development** — React & Tailwind CSS for building UI, plus HTML/CSS/JS fundamentals
+- 🌱 Now learning **Backend Development**
 - 🛠️ Also comfortable with **C, C++**, and basic **Java**
 - ✍️ I also work as a **Content Writer**
-- 🌱 Currently building: **Darkweb Threat Intelligence Platform** (Node.js + Prisma + PostgreSQL)
+- 🏗️ Currently building: **Darkweb Threat Intelligence Platform** (Node.js + Prisma + PostgreSQL)
 - 📫 Reach me at: **ridwanulk08@gmail.com**
 
 ---
 
-### 🎨 Frontend (Completed)
+### 🎨 Frontend
 
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Fundamentals:**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />

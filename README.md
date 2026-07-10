@@ -70,5 +70,4 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridwanulkarim&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwanulkarim&layout=compact&theme=radical" />
 </p>
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/988694cd-e246-4183-a656-1056392cba1b" />
-
+<img width="1600" height="1431" alt="image" src="https://github.com/user-attachments/assets/d3c3d1d9-7275-4a8c-aa35-e36298c77da1" />
